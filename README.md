@@ -19,7 +19,7 @@ A message board application made with React (fron-end) and Node (back-end)
  * PUT http://localhost:5000/:channel
 
 ### GET endpoint to retrieve entire in-memory database
-	* GET http://localhost:5000/all
+ * GET http://localhost:5000/all
 
 ## Run test
  * To run unit test for the server simply run `npm test`
